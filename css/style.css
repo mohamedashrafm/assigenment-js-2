@@ -1,0 +1,26 @@
+body{
+    font-size: 25px;
+    line-height: 3;
+    padding-top: 50px;
+
+}
+h2{
+    font-family: Impact;
+    font-size: 80px;
+    
+}
+.btn{
+    padding: 20px 40px;
+    
+    outline: none;
+    background-color: #0075ff;
+    color: #fff;
+    cursor: pointer;
+    transition: .5s;
+}
+.btn:hover{
+    background-color: green;
+}
+p{
+    font-size: 30px;
+}
